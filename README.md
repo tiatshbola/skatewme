@@ -1,23 +1,38 @@
 # SkateWMe
 
-A React Native (Expo) app that connects new and experienced roller skaters in London,
-helping beginners find groups, events, places and other skaters so they feel part of the
-community.
+A React Native (Expo) application that connects new and experienced roller skaters across London. The app helps beginners discover skating groups, events, locations, and other skaters, making it easier to build confidence and become part of the skating community.
 
-Figma for Full App, Just incase it doesn't work.
-https://www.figma.com/design/8nODrfDLJnZvvJmr9cIeWX/SKATEWME?node-id=12-2738&p=f&t=xsQzTXShmqD53Ynq-0
+## Running the Project
 
+Install dependencies:
 
-## Run it
-```
+```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npx expo start
 ```
-Then press `i` for the iOS simulator, or scan the QR code with Expo Go.
 
-## Note
-AI was used as a support tool for debugging, troubleshooting, and code structuring. However, all final code, design decisions, concepts, and creative direction were developed and implemented by me.
+Then:
 
-Close to the submission deadline the iOS simulator stopped connecting to the Metro dev
-server (a Node-version / local dev-server issue), so I wasn't able to re-record the live
-demo in time. The app itself is complete and runs with `npx expo start`.
+* Press `i` to launch the iOS Simulator, or
+* Scan the QR code using the Expo Go app on your mobile device.
+
+## AI Usage Statement
+
+AI tools were used as support tools for debugging, troubleshooting, and code structuring. All final code, design decisions, concepts, user experience decisions, and creative direction were developed, reviewed, and implemented by me.
+
+## Development Note
+
+Close to the submission deadline, the iOS Simulator stopped connecting to the Metro development server due to a local development environment issue related to Node.js/version configuration. As a result, I was unable to re-record a live demonstration before submission. But I have the original and full run-through of the app here (Final version on the  far right)
+
+https://www.figma.com/design/8nODrfDLJnZvvJmr9cIeWX/SKATEWME?node-id=12-2738&p=f&t=xsQzTXShmqD53Ynq-0
+
+The application itself is complete and can be run using:
+
+```bash
+npx expo start
+```
