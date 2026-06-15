@@ -26,8 +26,7 @@ Then:
 AI tools were used as support tools for debugging, troubleshooting, and code structuring. All final code, design decisions, concepts, user experience decisions, and creative direction were developed, reviewed, and implemented by me.
 
 ## Development Note
-
-Close to the submission deadline, the iOS Simulator stopped connecting to the Metro development server due to a local development environment issue related to Node.js/version configuration. As a result, I was unable to re-record a live demonstration before submission. But I have the original and full run-through of the app here (Final version on the  far right)
+Close to the submission deadline, the iOS Simulator in Xcode stopped connecting to the Expo Metro development server due to a local development environment/version configuration issue. As a result, I was unable to re-record a live demonstration before submission. The application itself remains functional and can be run using npx expo start. But I have the original and full run-through of the app here (Final version on the  far right)
 
 https://www.figma.com/design/8nODrfDLJnZvvJmr9cIeWX/SKATEWME?node-id=12-2738&p=f&t=xsQzTXShmqD53Ynq-0
 
